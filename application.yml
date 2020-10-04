@@ -2,4 +2,4 @@ my:
   greeting: Hello World
 
 desc:
-  key: this is my first project - New  again update value
+  key: this is my first project - Testing the actuator refresh
